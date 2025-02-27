@@ -7,4 +7,3 @@ while k < indice:
     k = k + 1
     soma = soma + k
 print(f"Valor da SOMA: {soma}")
-# Output: 91
